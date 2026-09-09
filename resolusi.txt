@@ -1,5 +1,9 @@
 resolusi
 1. memahami html dan css secara mendalam
+ - membuat website mudah dibaca oleh orang
+ - menggunakan elemen simentik secara tepat sehingga mudah untuk dibaca
+ - menggunakan fitur css yang modern
+ - membuat sebuah animasi yang mulus
 2. memahami flexbox
 3. memahami javascipt
 4. membuat sebuah front page yang menarik
