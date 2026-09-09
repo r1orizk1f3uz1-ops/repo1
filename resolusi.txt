@@ -6,4 +6,7 @@ resolusi
  - membuat sebuah animasi yang mulus
 2. memahami flexbox
 3. memahami javascipt
+ - es6
+ - membuat sebuah hoisting 
+ - membuat sebuah queue & microtask queue
 4. membuat sebuah front page yang menarik
