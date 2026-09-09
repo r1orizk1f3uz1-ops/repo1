@@ -1,0 +1,4 @@
+resolusi
+1. memahami html dan css secara mendalam
+2. memhami javascipt
+3. membuat sebuah front page yang menarik
